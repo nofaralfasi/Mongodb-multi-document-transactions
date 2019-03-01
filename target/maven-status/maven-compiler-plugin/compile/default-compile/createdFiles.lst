@@ -1,0 +1,5 @@
+com/mongodb/models/Product.class
+com/mongodb/models/Cart.class
+com/mongodb/models/Cart$Item.class
+com/mongodb/Transactions.class
+com/mongodb/ChangeStreams.class
